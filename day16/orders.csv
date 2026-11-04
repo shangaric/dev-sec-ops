@@ -1,0 +1,7 @@
+ORDER_ID,CUSTOMER_ID,PRODUCT,LOCATION,QUANTITY,PRICE,NOTES
+O101,C101,Laptop,Chennai,2,45000,"  urgent  "
+O102,C102,Mobile,Bangalore,3,20000,""
+O103,C103,Headphones,Chennai,5,2000,"   "
+O104,C104,Laptop,Hyderabad,1,45000,NULL
+O105,C105,Mobile,Chennai,2,20000,Regular
+O106,C102,Headphones,Bangalore,4,2000,Regular
